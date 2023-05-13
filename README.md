@@ -19,7 +19,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 ## Contents
 1. **The oldest business in the world:** Let's load the data and explore it!
 2. **How many businesses were founded before 1000?:** Let's join `sorted_businesses` with `countries` so we can look at data by continent.
-3. **Which businesses were founded before 1000?:**
+3. **Which businesses were founded before 1000?:** Let's create a DataFrame called `continent`
 4. **Exploring the categories:**
 5. **Counting the categories:**
 6. **Oldest business by continent:**
