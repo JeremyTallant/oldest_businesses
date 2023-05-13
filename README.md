@@ -17,12 +17,12 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. The oldest business in the world
-2. How many businesses were founded before 1000?
-3. Which businesses were founded before 1000?
-4. Exploring the categories
-5. Counting the categories
-6. Oldest business by continent
-7. Joining everything for further analysis
-8. Counting categories by continent
-9. Filtering counts by continent and category
+1. **The oldest business in the world:** Let's load the data and explore it!
+2. **How many businesses were founded before 1000?:**
+3. **Which businesses were founded before 1000?:**
+4. **Exploring the categories:**
+5. **Counting the categories:**
+6. **Oldest business by continent:**
+7. **Joining everything for further analysis:**
+8. **Counting categories by continent:**
+9. **Filtering counts by continent and category:**
