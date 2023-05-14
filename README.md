@@ -20,7 +20,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 2. **How many businesses were founded before 1000?:** Let's join `sorted_businesses` with `countries` so we can look at data by continent.
 3. **Which businesses were founded before 1000?:** Let's create a DataFrame called `continent`
 4. **Exploring the categories:** For this task, we'll return to `businesses` and `countries` and use our `.merge()` skills to look for missing data.
-5. **Counting the categories:**
+5. **Counting the categories:** We want to vertically stack `businesses` and the information from `new_businesses.csv` together to create a more complete dataset.
 6. **Oldest business by continent:**
 7. **Joining everything for further analysis:**
 8. **Counting categories by continent:**
