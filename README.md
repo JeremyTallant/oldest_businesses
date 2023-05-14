@@ -23,5 +23,5 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 5. **Counting the categories:** We want to vertically stack `businesses` and the information from `new_businesses.csv` together to create a more complete dataset.
 6. **Oldest business by continent:** Which industries do you think are best suited to last over the course of centuries?
 7. **Joining everything for further analysis:** Let's find the oldest restaurants in the world.
-8. **Counting categories by continent:**
+8. **Counting categories by continent:** Let's make a reference table showing the oldest business in each category of commerce by continent.
 9. **Filtering counts by continent and category:**
